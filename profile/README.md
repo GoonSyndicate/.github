@@ -1,5 +1,8 @@
 ## Hi there Goons 👋
 
+# Getting Started
+
+If this is your first time programming, please read this guide to get started: https://docs.google.com/document/d/184nnZfxyJerUVU_V218xf5mTuo9j3KJdPNPttHNWlRk/edit?usp=sharing
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,6 +13,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## Useful Links
 
 
 ## Overview of Repositories
