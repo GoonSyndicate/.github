@@ -1,6 +1,6 @@
-## Hi there Goons 👋
+# Hi there Goons 👋
 
-# Getting Started
+## Getting Started
 
 If this is your first time programming, please read this guide to get started: https://docs.google.com/document/d/184nnZfxyJerUVU_V218xf5mTuo9j3KJdPNPttHNWlRk/edit?usp=sharing
 <!--
@@ -19,6 +19,7 @@ If this is your first time programming, please read this guide to get started: h
 ## Overview of Repositories
 
 Quality Time: NextJS/Tailwind/ThreeJS project animating 3D models to act as pets
+https://docs.google.com/document/d/17J0eFzJL_kEmb5rnsEoRCH8HBI3Uga98jNfqA3Ru4zQ/edit?usp=sharing
 
 Dungeon Dice: ChatGPT API-based D&D simulation using NextJS, He
 
