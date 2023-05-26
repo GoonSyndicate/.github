@@ -18,8 +18,8 @@ Please feel free to start at whatever pace works best for you. We have a test re
 -->
 ## Useful Links
 <ul>
-<li><a href="https://docs.google.com/document/d/17J0eFzJL_kEmb5rnsEoRCH8HBI3Uga98jNfqA3Ru4zQ/edit?usp=sharing">NextJS Docs</a></li>
-<li><a href="https://docs.google.com/document/d/17J0eFzJL_kEmb5rnsEoRCH8HBI3Uga98jNfqA3Ru4zQ/edit?usp=sharing">Tailwind Cheatsheet</a></li>
+<li><a href="https://nextjs.org/docs">NextJS Docs</a></li>
+<li><a href="https://nerdcave.com/tailwind-cheat-sheet">Tailwind Cheatsheet</a></li>
 </ul>
 
 
