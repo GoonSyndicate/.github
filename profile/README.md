@@ -4,7 +4,7 @@
 
 If you aren't very experienced with github or programming yet, check out this quick <a href="https://docs.google.com/document/d/184nnZfxyJerUVU_V218xf5mTuo9j3KJdPNPttHNWlRk/edit?usp=sharing">Introduction to Github and VSCode</a> to get started.
 
-##🌈 Contribution guidelines - Please feel free to start at whatever pace works best for you. We have a test repisotory in this organization where you can practice making a branch, merging, etc. If you have any questions, please feel free to DM George or ask in the gigachad-coders chat. If you want to work on a project, feel free. If you can, please make your changes on a branch -- but it's not a requirement. It will just make it easier to keep your mess off everyone else's plate until you're ready for show-and-tell.
+## 🌈 Contribution guidelines - Please feel free to start at whatever pace works best for you. We have a test repisotory in this organization where you can practice making a branch, merging, etc. If you have any questions, please feel free to DM George or ask in the gigachad-coders chat. If you want to work on a project, feel free. If you can, please make your changes on a branch -- but it's not a requirement. It will just make it easier to keep your mess off everyone else's plate until you're ready for show-and-tell.
 <!--
 
 **Here are some ideas to get you started:**
