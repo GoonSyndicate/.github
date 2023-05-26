@@ -17,6 +17,10 @@ Please feel free to start at whatever pace works best for you. We have a test re
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 ## Useful Links
+<ul>
+<li><a href="https://docs.google.com/document/d/17J0eFzJL_kEmb5rnsEoRCH8HBI3Uga98jNfqA3Ru4zQ/edit?usp=sharing">NextJS Docs</a></li>
+<li><a href="https://docs.google.com/document/d/17J0eFzJL_kEmb5rnsEoRCH8HBI3Uga98jNfqA3Ru4zQ/edit?usp=sharing">Tailwind Cheatsheet</a></li>
+</ul>
 
 
 ## Overview of Repositories
