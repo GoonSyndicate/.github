@@ -21,15 +21,17 @@ Please feel free to start at whatever pace works best for you. We have a test re
 
 ## Overview of Repositories
 
-###Quality Time: NextJS/Tailwind/ThreeJS project animating 3D models to act as pets
+### Quality Time: NextJS/Tailwind/ThreeJS project animating 3D models to act as pets
 <a href="https://docs.google.com/document/d/17J0eFzJL_kEmb5rnsEoRCH8HBI3Uga98jNfqA3Ru4zQ/edit?usp=sharing">Requirements Document </a>
 
-###Dungeon Dice: ChatGPT API-based D&D simulation using NextJS, He
-<a href="https://docs.google.com/document/d/1Nj-G4Uc2UCB3Fknp2u-7fS4SBNbvVicT6LOqgSSJblo/edit?usp=sharing">Requirements Document </a>
-<a href="https://docs.google.com/document/d/1zBuIagFjLE4idIolqbYizqPHyd2IfcX4G08W2OJxitI/edit?usp=sharing">Specifications Document </a>
+### Dungeon Dice: ChatGPT API-based D&D simulation using NextJS
+<ul>
+<li><a href="https://docs.google.com/document/d/1Nj-G4Uc2UCB3Fknp2u-7fS4SBNbvVicT6LOqgSSJblo/edit?usp=sharing">Requirements Document </a></li>
+<li><a href="https://docs.google.com/document/d/1zBuIagFjLE4idIolqbYizqPHyd2IfcX4G08W2OJxitI/edit?usp=sharing">Specifications Document </a></li>
+</ul>
 
-###Flight: Unreal Engine game using the new Proc Gen in UE5.2 in order to simulate an immersive enviornment to fly around in.
+### Flight: Unreal Engine game using the new Proc Gen in UE5.2 in order to simulate an immersive enviornment to fly around in.
 [No documentation yet]
 
-###Democratic Discord: Simple discord bot that lets you vote on statements you or someone else might have made.
+### Democratic Discord: Simple discord bot that lets you vote on statements you or someone else might have made.
 Do we want to do anything else with this?
