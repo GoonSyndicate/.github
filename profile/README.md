@@ -2,7 +2,13 @@
 
 ## 👩‍💻 Useful resources
 
-<a href="https://docs.google.com/document/d/184nnZfxyJerUVU_V218xf5mTuo9j3KJdPNPttHNWlRk/edit?usp=sharing">Quick introduction to github and VSCode:</a> Gets you started and ready to interact with this enviornment.
+<ul>
+<li><a href="https://docs.google.com/document/d/184nnZfxyJerUVU_V218xf5mTuo9j3KJdPNPttHNWlRk/edit?usp=sharing">Quick introduction to github and VSCode:</a> Gets you started and ready to interact with this enviornment.</li>
+
+<li><a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">Create a Personal Access Token:</a> You will use this instead of a password to access your personal and organization repositories alike. Make sure you give yourself all the read and write permissions you'll need</li>
+
+<li><a href="https://docs.google.com/document/d/1U58RVHCx_ZfF1xSSMXtqPsg01O4wzNBbUi0_r3j_W4o/edit?usp=sharing">Git commit tips:</a> Learn how to make a good commit! There are some useful tools in here if you want to learn more about versioning.</li>
+</ul>
 
 ## 🌈 Contribution guidelines 
 Please feel free to start at whatever pace works best for you. We have a test repisotory in this organization where you can practice making a branch, merging, etc. If you have any questions, please feel free to DM George or ask in the gigachad-coders chat. If you want to work on a project, feel free. If you can, please make your changes on a branch -- but it's not a requirement. It will just make it easier to keep your mess off everyone else's plate until you're ready for show-and-tell.
